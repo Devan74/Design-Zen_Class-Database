@@ -3,7 +3,7 @@
 db.users.insertMany([
     {
         'userId': 1,
-        'name': 'Devan',
+        'name': 'boopathy',
         'email': 'devan@gmail.com',
         'mobile': '9500329375'
     },
